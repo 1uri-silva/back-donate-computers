@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "commonjs",
+		"rootDir": "./src",
+		"strict": true,
+		"baseUrl": "./src",
+		"allowJs": true,
+		"esModuleInterop": true
+	},
+	"exclude": ["jest.config.ts", "__test__"]
+}

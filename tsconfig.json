@@ -6,7 +6,8 @@
 		"strict": true,
 		"baseUrl": "./src",
 		"allowJs": true,
-		"esModuleInterop": true
+		"esModuleInterop": true,
+		"downlevelIteration": true
 	},
 	"exclude": ["jest.config.ts", "__test__"]
 }
